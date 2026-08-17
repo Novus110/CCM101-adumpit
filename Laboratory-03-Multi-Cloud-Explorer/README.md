@@ -45,12 +45,6 @@ tmpfs           5.0M     0  5.0M   0% /run/lock
 /dev/vda15      105M  6.2M   99M   6% /boot/efi
 ```
 
-## Screenshots
-
-![OS Info](screenshots/os-info.png)
-![CPU Info](screenshots/cpu-info.png)
-![Memory Info](screenshots/memory-info.png)
-![Disk Info](screenshots/disk-info.png)
 
 ## Cloud Migration Analysis
 
